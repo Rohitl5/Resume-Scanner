@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^1.10.0"
+  },
+"scripts": {
+  "frontend": "npm start --prefix frontend",
+  "backend": "npm run dev --prefix backend",
+  "dev-all": "concurrently \"npm run backend\" \"npm run frontend\""
+},
+
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
