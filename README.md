@@ -3,7 +3,7 @@ Scans the resume of the candidate and match the skills with the job description 
 
 Note : 
 After  30 days of inactivity both the 
-1) Renger Backend
-2) Mondo db Cluster
+1) Render Backend
+2) Mongo db Cluster
 
  goes to sieze , so if the application is not working go and restart both of them
